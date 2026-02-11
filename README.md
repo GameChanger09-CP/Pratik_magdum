@@ -1,23 +1,18 @@
 <div align="center">
 
-<img src="profile.jpeg" width="160" style="border-radius:50%;" />
+<img 
+  src="profile.jpeg" 
+  width="160" 
+  height="160" 
+  alt="Pratik Magdum"
+  style="border-radius:50%; object-fit:cover;" 
+/>
 
-# 👋 Hi, I'm Pratik Magdum
+<h1>👋 Hi, I'm Pratik Magdum</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Competitive+Programmer;4⭐+CodeChef;LeetCode+Problem+Solver;ICPC+Aspirant" />
 
-### 🚀 C++ | DSA | Algorithms | Problem Solving
-
-</div>
-
-
-<div align="center">
-
-# 👋 Hi, I'm Pratik Magdum
-
-### 🚀 Competitive Programmer | 4⭐ CodeChef | DSA Enthusiast
-
-Passionate about solving complex algorithmic problems.
+<h3>🚀 C++ | DSA | Algorithms | Problem Solving</h3>
 
 <p>
   <a href="https://leetcode.com/u/Pratik_Magdum/">
@@ -40,14 +35,15 @@ Passionate about solving complex algorithmic problems.
 ## 🧠 About Me
 
 - 🔥 60+ Competitive Programming Contests
-- 🏆 Strong in Graphs, DP, Binary Search, Greedy
-- 💻 C++ | STL | Advanced Problem Solving
+- 🏆 4⭐ CodeChef
+- 💻 Strong in Graphs, DP, Binary Search, Greedy
+- 🚀 C++ | STL | Advanced Problem Solving
 - 🎯 Target: ICPC & Top Product-Based Companies
-- 📈 Consistent Daily Solver
+- 📈 Consistent Daily Problem Solver
 
 ---
 
-# 🏆 LeetCode Stats
+## 🏆 LeetCode Stats
 
 <div align="center">
 
@@ -57,7 +53,7 @@ Passionate about solving complex algorithmic problems.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -69,13 +65,13 @@ Passionate about solving complex algorithmic problems.
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik_magdum&theme=tokyo-night&hide_border=true" />
 
 ---
 
-# 🏅 Competitive Programming Profiles
+## 🏅 Competitive Programming Profiles
 
 - 🔹 **LeetCode**: https://leetcode.com/u/Pratik_Magdum/
 - 🔹 **CodeChef**: https://www.codechef.com/users/pratik_magdum
@@ -83,9 +79,9 @@ Passionate about solving complex algorithmic problems.
 
 ---
 
-# 💡 Tech Stack
+## 💡 Tech Stack
 
 ```cpp
 Languages: C++, Java  
-Core CS: DSA, Algorithms, OOP, OS, DBMS  
-Tools: Git, Linux, VS Code  
+Core CS: Data Structures & Algorithms, OOP, OS, DBMS  
+Tools: Git, Linux, VS Code
