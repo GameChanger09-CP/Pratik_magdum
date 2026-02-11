@@ -1,5 +1,18 @@
 <div align="center">
 
+<img src="profile.jpeg" width="160" style="border-radius:50%;" />
+
+# 👋 Hi, I'm Pratik Magdum
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Competitive+Programmer;4⭐+CodeChef;LeetCode+Problem+Solver;ICPC+Aspirant" />
+
+### 🚀 C++ | DSA | Algorithms | Problem Solving
+
+</div>
+
+
+<div align="center">
+
 # 👋 Hi, I'm Pratik Magdum
 
 ### 🚀 Competitive Programmer | 4⭐ CodeChef | DSA Enthusiast
