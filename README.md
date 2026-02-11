@@ -1,16 +1,8 @@
 <div align="center">
 
-<img 
-  src="profile.jpeg" 
-  width="160" 
-  height="160" 
-  alt="Pratik Magdum"
-  style="border-radius:50%; object-fit:cover;" 
-/>
-
 <h1>👋 Hi, I'm Pratik Magdum</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Competitive+Programmer;4⭐+CodeChef;LeetCode+Problem+Solver;ICPC+Aspirant" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Backend+Developer;4⭐+CodeChef;LeetCode+Problem+Solver;ICPC+Regionalist" />
 
 <h3>🚀 C++ | DSA | Algorithms | Problem Solving</h3>
 
@@ -34,12 +26,12 @@
 
 ## 🧠 About Me
 
-- 🔥 60+ Competitive Programming Contests
-- 🏆 4⭐ CodeChef
-- 💻 Strong in Graphs, DP, Binary Search, Greedy
-- 🚀 C++ | STL | Advanced Problem Solving
-- 🎯 Target: ICPC & Top Product-Based Companies
-- 📈 Consistent Daily Problem Solver
+- 🔥 60+ Competitive Programming Contests  
+- 🏆 4⭐ CodeChef  
+- 💻 Strong in Graphs, DP, Binary Search, Greedy  
+- 🚀 C++ | STL | Advanced Problem Solving  
+- 🎯 Target: ICPC & Top Product-Based Companies  
+- 📈 Consistent Daily Problem Solver  
 
 ---
 
@@ -73,9 +65,9 @@
 
 ## 🏅 Competitive Programming Profiles
 
-- 🔹 **LeetCode**: https://leetcode.com/u/Pratik_Magdum/
-- 🔹 **CodeChef**: https://www.codechef.com/users/pratik_magdum
-- 🔹 **Codeforces**: https://codeforces.com/profile/Pratik_Magdum
+- 🔹 **LeetCode**: https://leetcode.com/u/Pratik_Magdum/  
+- 🔹 **CodeChef**: https://www.codechef.com/users/pratik_magdum  
+- 🔹 **Codeforces**: https://codeforces.com/profile/Pratik_Magdum  
 
 ---
 
