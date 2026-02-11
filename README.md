@@ -45,22 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pratik_magdum&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik_magdum&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik_magdum&theme=tokyo-night&hide_border=true" />
-
 ---
 
 ## 🏅 Competitive Programming Profiles
