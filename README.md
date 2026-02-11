@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Pratik Magdum
 
-### 🚀 Competitive Programmer | DSA Enthusiast | Problem Solver
+### 🚀 Competitive Programmer | 4⭐ CodeChef | DSA Enthusiast
 
-Passionate about solving complex problems using Data Structures & Algorithms.
+Passionate about solving complex algorithmic problems.
 
 <p>
   <a href="https://leetcode.com/u/Pratik_Magdum/">
@@ -18,7 +18,7 @@ Passionate about solving complex problems using Data Structures & Algorithms.
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pratik_magdum&style=for-the-badge&color=blue)
+<img src="https://komarev.com/ghpvc/?username=Pratik_magdum&style=for-the-badge&color=blue" />
 
 </div>
 
@@ -26,58 +26,53 @@ Passionate about solving complex problems using Data Structures & Algorithms.
 
 ## 🧠 About Me
 
-- 🔥 60+ Competitive Contests Completed  
-- 🏆 Strong in Graphs, DP, Greedy, Binary Search  
-- 💻 C++ | STL | Advanced Problem Solving  
-- 🎯 Target: ICPC & Top Product-Based Companies  
-- 📈 Consistent Daily Problem Solver  
+- 🔥 60+ Competitive Programming Contests
+- 🏆 Strong in Graphs, DP, Binary Search, Greedy
+- 💻 C++ | STL | Advanced Problem Solving
+- 🎯 Target: ICPC & Top Product-Based Companies
+- 📈 Consistent Daily Solver
 
 ---
 
 # 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Pratik_Magdum?theme=dark&ext=contest)
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/Pratik_Magdum?theme=dark&ext=heatmap)
+<div align="center">
 
----
+<img src="https://leetcard.jacoblin.cool/Pratik_Magdum?theme=dark&ext=heatmap&font=baloo" />
 
-# 📊 Codeforces Rating Graph
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Pratik_Magdum)
-
----
-
-# 🍽 CodeChef Stats
-
-![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/card?username=pratik_magdum)
+</div>
 
 ---
 
 # 📊 GitHub Stats
 
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik_magdum&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik_magdum&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Pratik_magdum&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik_magdum&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
 
 ---
 
-# 📈 GitHub Contribution Graph
+# 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratik_magdum&theme=react-dark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik_magdum&theme=tokyo-night&hide_border=true" />
 
 ---
 
 # 🏅 Competitive Programming Profiles
 
-- 🔹 LeetCode: https://leetcode.com/u/Pratik_Magdum/
-- 🔹 CodeChef: https://www.codechef.com/users/pratik_magdum
-- 🔹 Codeforces: https://codeforces.com/profile/Pratik_Magdum
+- 🔹 **LeetCode**: https://leetcode.com/u/Pratik_Magdum/
+- 🔹 **CodeChef**: https://www.codechef.com/users/pratik_magdum
+- 🔹 **Codeforces**: https://codeforces.com/profile/Pratik_Magdum
 
 ---
 
 # 💡 Tech Stack
 
 ```cpp
-Languages: C++, Java
-Core: DSA, Algorithms, Graph Theory, Dynamic Programming
-Tools: Git, Linux, VS Code
+Languages: C++, Java  
+Core CS: DSA, Algorithms, OOP, OS, DBMS  
+Tools: Git, Linux, VS Code  
